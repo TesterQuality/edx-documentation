@@ -2,11 +2,17 @@
 edX Mobile Apps
 ####################################
 
-The following pages list changes to edX Moibile apps:
+.. _Mobile January 7, 2015:
 
-.. toctree::
-   :maxdepth: 1
+***************
+January 7, 2015
+***************
 
-   mobile-01-07-2015
+* The tracking logs in daily data packages now include events for students who
+  use the edX mobile app to view course videos. The edX mobile app began to
+  emit the ``play_video``, ``pause_video``, ``stop_video``, ``load_video``,
+  ``hide_transcript``, and ``show_transcript`` events on December 23, 2014. For
+  more information, see the `Video Interaction Events`_ section of the `edX
+  Research Guide`_.
   
 .. include:: ../links.rst

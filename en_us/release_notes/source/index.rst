@@ -2,8 +2,8 @@
 edX Release Notes
 ####################################
 
-The *edX Release Notes* provide a cumulative list of changes to the edX
-platform.
+The *edX Release Notes* provide a cumulative list of changes to edX
+products.
 
 ******************
 Introduction
@@ -15,24 +15,15 @@ Introduction
    preface
    browsers
 
-
 ******************
 2015 Releases
 ******************
-
-See the following for a list of when each edX product changed. 
-
-
-.. toctree::
-   :maxdepth: 1
-
-   2015-history.rst
 
 See the following pages for a chronological list of released changes for that
 edX product.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    website/index
    lms/index

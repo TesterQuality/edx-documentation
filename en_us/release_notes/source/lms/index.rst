@@ -2,11 +2,16 @@
 edX Learning Management System
 ####################################
 
-The following pages list changes to edX Learning Management System:
+****************
+January 7, 2015
+****************
 
-.. toctree::
-   :maxdepth: 1
+* In the Instructor Dashboard, when you unenrolled a user who enrolled in the
+  Verified track, if that user was reenrolled, he or she was automatically
+  placed in the Verified track.  This problem is fixed; the user is no longer
+  automaticlaly enrolled in the Verified track. (ECOM-776)
 
-   lms-01-07-2015
+* The student dashboard is updated to provide a visual indication of
+  professional education courses the student is enrolled in. (ECOM-728)
 
 .. include:: ../links.rst

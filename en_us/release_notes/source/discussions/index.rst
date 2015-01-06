@@ -2,12 +2,9 @@
 edX Discussions
 ####################################
 
-The following pages list changes to edX Discussions:
+*****************
+January 7, 2015
+*****************
 
-.. toctree::
-   :maxdepth: 1
-
-   discussions-01-07-2015
-
-
-.. include:: ../links.rst
+* When you viewed responses in a discussion topic, the vote count was displayed
+  twice. This problem is resolved. (TNL-1016)
