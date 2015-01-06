@@ -25,6 +25,8 @@ The following documentation is available:
 * `edX Platform API`_
   
 * `edX Data Analytics API`_
+  
+* `edX Data Analytics API Version 0 Alpha`_
 
 **************************
 Other edX Resources

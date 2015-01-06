@@ -36,4 +36,5 @@ version = ''
 # The full version, including alpha/beta/rc tags.
 release = ''
 
-exclude_patterns = ['links.rst', 'reusables/*']
+#remove directory when content is first added to it, and add to index
+exclude_patterns = ['links.rst', 'reusables/*', 'insights/*', 'openedx/*', 'ora/*', 'xblocks/*']

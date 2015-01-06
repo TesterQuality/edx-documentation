@@ -20,8 +20,16 @@ Introduction
 2015 Releases
 ******************
 
-View the following pages to see a chronological list of released changes for
-that edX product.
+See the following for a list of when each edX product changed. 
+
+
+.. toctree::
+   :maxdepth: 1
+
+   2015-history.rst
+
+See the following pages for a chronological list of released changes for that
+edX product.
 
 .. toctree::
    :maxdepth: 1
@@ -30,12 +38,8 @@ that edX product.
    lms/index
    studio/index
    discussions/index
-   insights/index
    mobile/index
-   openedx/index
-   ora/index
    analytics/index
-   xblocks/index
    documentation/index
 
 ******************
