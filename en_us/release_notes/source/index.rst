@@ -29,6 +29,7 @@ edX product.
    lms/index
    studio/index
    discussions/index
+   ora/index
    mobile/index
    analytics/index
    documentation/index
