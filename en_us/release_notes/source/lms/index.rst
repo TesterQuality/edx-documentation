@@ -6,12 +6,12 @@ edX Learning Management System
 January 7, 2015
 ****************
 
-* In the Instructor Dashboard, when you unenrolled a user who enrolled in the
-  Verified track, if that user was reenrolled, he or she was automatically
-  placed in the Verified track.  This problem is fixed; the user is no longer
-  automaticlaly enrolled in the Verified track. (ECOM-776)
+* In the Instructor Dashboard, when you unenrolled a student who enrolled in
+  the Verified track, if that student was re-enrolled, he or she was
+  automatically placed in the Verified track.  This problem is fixed; the
+  student is no longer automatically enrolled in the Verified track. (ECOM-776)
 
-* The student dashboard is updated to provide a visual indication of
+* The Student Dashboard is updated to provide a visual indication of
   professional education courses the student is enrolled in. (ECOM-728)
 
 .. include:: ../links.rst

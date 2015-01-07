@@ -8,8 +8,8 @@ edX Analytics
 January 7, 2015
 ***************
 
-* In early November 2014, an error was introduced that prevented events for
-  open assessment problems from being generated. This error has been corrected.
+* In early November 2014, an error was introduced that prevented events from
+  being generated for open assessment problems. This error has been corrected.
 
 * Also see mobile updates for :ref:`Mobile January 7, 2015`.
 

@@ -28,7 +28,7 @@ edX Studio
   .. image:: images/help.png
    :alt: Online help links in Studio
 
-  A page in edX's continuously updated documentation that is related to the Studio page you are viewing opens in a new browser tab or window:
+  A page in edX's continually updated documentation that is related to the Studio page you are viewing opens in a new browser tab or window:
 
   .. image:: images/help_page.png
    :alt: A Studio online help page

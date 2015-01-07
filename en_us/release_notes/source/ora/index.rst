@@ -2,9 +2,10 @@
 edX Open Response Assessments
 ####################################
 
-The following pages list changes to edX Open Response Assessments:
+***************
+January 7, 2015
+***************
 
-.. toctree::
-   :maxdepth: 1
+* Open response assessments now support right-to-left languages.
 
 .. include:: ../links.rst
