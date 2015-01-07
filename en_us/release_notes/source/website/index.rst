@@ -1,0 +1,22 @@
+####################################
+edX Website
+####################################
+
+***************
+January 7, 2015
+***************
+
+* If a user who has completed the verification process enrolled as a verified
+  student before the verification expires, but the course's verification
+  deadline was after the user's verification expires, the student was
+  erroneously prompted to verify his or her identity.  This problem is
+  resolved. (ECOM-864)
+
+* Students using Internet Explorer 9 without Flash installed were able to click
+  disabled buttons and proceed through the verification process, though no
+  photo is taken. Students are now unable to proceed until they install Flash.
+  (ECOM-849)
+
+* https://github.com/edx/edx-platform/pull/6247
+
+.. include:: ../links.rst
